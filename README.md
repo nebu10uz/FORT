@@ -14,3 +14,4 @@ Links to free online security tools for quickly triaging and responding to cyber
 -   [UnPHP](https://www.unphp.net/) - A tool to decode, unpack and deobfuscate protected PHP scripts.
 -   [o365atp](https://o365atp.com/) - Decode Microsoft 365 safelink URLs.
 -   [DynamiteLab](https://lab.dynamite.ai/) - Analyize network behavior from packet captures.
+-   [UnpacMe](https://www.unpac.me/) - An online tool that automatically unpacks malware files to help analyze their inner workings and potential threats.
