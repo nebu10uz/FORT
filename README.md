@@ -19,4 +19,5 @@ Links to free online security tools for quickly triaging and responding to cyber
 -   [Abuseipdb](https://www.abuseipdb.com/) - A crowdsourced database of IP addresses associated with malicious activity.
 -   [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center/) - Provides reputation data for IPs, domains, and URLs.
 -   [Triage](https://tria.ge/) - A malware analysis platform by Recorded Future. It provides detailed analysis reports and threat intelligence.
+-   [DNSDumpster](https://dnsdumpster.com/) - Domain research tool that can discover hosts related to a domain.
 -   [Shodan](https://www.shodan.io/dashboard) - A search engine for internet-connected devices, revealing metadata, vulnerabilities, and open ports for cybersecurity analysis.
