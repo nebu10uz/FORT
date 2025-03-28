@@ -12,3 +12,4 @@ Links to free online security tools for quickly triaging and responding to cyber
 -   [Deobfuscate IO](https://deobfuscate.io/) - A tool for deobfuscating and decoding code, making it easier to understand and analyze.
 -   [dCode](https://www.dcode.fr/en) - A website offering tools for solving puzzles, codes, ciphers, and various calculations.
 -   [UnPHP](https://www.unphp.net/) - A tool to decode, unpack and deobfuscate protected PHP scripts.
+-   [o365atp](https://o365atp.com/) - Decode Microsoft 365 safelink URLs.
