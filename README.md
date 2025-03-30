@@ -23,4 +23,4 @@ Links to free online security tools for quickly triaging and responding to cyber
 -   [DNSDumpster](https://dnsdumpster.com/) - Domain research tool that can discover hosts related to a domain.
 -   [Shodan](https://www.shodan.io/dashboard) - A search engine for internet-connected devices, revealing metadata, vulnerabilities, and open ports for cybersecurity analysis.
 -   [MHA](https://mha.azurewebsites.net/) - MHA (Message Header Analyzer) simplifies email header analysis, helping identify delays, sources, and routing details for troubleshooting.
--   [PhishTool](https://app.phishtool.com/) - A cybersecurity platform for analyzing phishing emails, extracting indicators of compromise (IoCs), and generating detailed forensic reports using threat intelligence and automation.
+-   [PhishTool](https://www.phishtool.com/) - A cybersecurity platform for analyzing phishing emails, extracting indicators of compromise (IoCs), and generating detailed forensic reports using threat intelligence and automation.
