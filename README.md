@@ -25,3 +25,4 @@ Links to free online security tools for quickly triaging and responding to cyber
 -   [MHA](https://mha.azurewebsites.net/) - MHA (Message Header Analyzer) simplifies email header analysis, helping identify delays, sources, and routing details for troubleshooting.
 -   [PhishTool](https://www.phishtool.com/) - A cybersecurity platform for analyzing phishing emails, extracting indicators of compromise (IoCs), and generating detailed forensic reports using threat intelligence and automation.
 -   [CheckPhish](https://checkphish.bolster.ai/) - A free tool that detects phishing and scam URLs in real time, offering detailed threat analysis to enhance security.
+-   [CheckShortURL](https://checkshorturl.com/) - A free tool that unshortens URLs, reveals their destination, checks for safety using multiple security services, and provides screenshots for verification.
