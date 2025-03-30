@@ -24,3 +24,4 @@ Links to free online security tools for quickly triaging and responding to cyber
 -   [Shodan](https://www.shodan.io/dashboard) - A search engine for internet-connected devices, revealing metadata, vulnerabilities, and open ports for cybersecurity analysis.
 -   [MHA](https://mha.azurewebsites.net/) - MHA (Message Header Analyzer) simplifies email header analysis, helping identify delays, sources, and routing details for troubleshooting.
 -   [PhishTool](https://www.phishtool.com/) - A cybersecurity platform for analyzing phishing emails, extracting indicators of compromise (IoCs), and generating detailed forensic reports using threat intelligence and automation.
+-   [CheckPhish](https://checkphish.bolster.ai/) - A free tool that detects phishing and scam URLs in real time, offering detailed threat analysis to enhance security.
