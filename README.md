@@ -6,6 +6,7 @@ Links to free online security tools for quickly triaging and responding to cyber
 -   [VirusTotal](https://www.virustotal.com) - Analyzes files, URLs, and domains for malware and other security threats.
 -   [Any Run](https://any.run/) - An interactive online sandbox for analyzing malware and other types of cyber threats in a safe environment.
 -   [Intezer](https://analyze.intezer.com/scan) - Identifies and analyzes malware by comparing code to a large database of known threats.
+-   [MalwareBazaar](https://bazaar.abuse.ch/) - A platform for sharing and downloading verified malware samples to support threat analysis and research.
 -   [urlscan io](https://urlscan.io/) - A service for scanning and analyzing websites.
 -   [Cyber Chef](https://cyberchef.org/) - A web app for encryption, encoding, compression and data analysis.
 -   [Sucuri Site Check](https://sitecheck.sucuri.net/) - A free website security scanner that checks for malware, viruses, blacklisting status, and other security issues.
@@ -31,3 +32,5 @@ Links to free online security tools for quickly triaging and responding to cyber
 -   [LOLBAS](https://lolbas-project.github.io/) - A project that catalogs legitimate Windows binaries and scripts that attackers can abuse for malicious purposes, helping security professionals identify and defend against "Living Off the Land" techniques.
 -   [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - A curated database that provides detailed information and reference samples for malware families, aiding in malware identification and analysis.
 -   [WDSL](https://www.microsoft.com/en-us/wdsi) - Microsoft Security Intelligence (WDSL) is a portal offering malware analysis, threat intelligence, and security updates for Microsoft Defender Antivirus.
+-   [Netcraft](https://www.netcraft.com/tools/) - Netcraft’s Internet research tools provide website analysis, security checks, and threat intelligence to help users assess and protect against online risks.
+
