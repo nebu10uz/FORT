@@ -30,3 +30,4 @@ Links to free online security tools for quickly triaging and responding to cyber
 -   [EchoTrail](https://www.echotrail.io/insights) - An online searchable tool that helps analysts assess the normalcy and risk of processes or files by providing behavioral profiles and statistical data based on real-world usage.
 -   [LOLBAS](https://lolbas-project.github.io/) - A project that catalogs legitimate Windows binaries and scripts that attackers can abuse for malicious purposes, helping security professionals identify and defend against "Living Off the Land" techniques.
 -   [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - A curated database that provides detailed information and reference samples for malware families, aiding in malware identification and analysis.
+-   [WDSL](https://www.microsoft.com/en-us/wdsi) - Microsoft Security Intelligence (WDSL) is a portal offering malware analysis, threat intelligence, and security updates for Microsoft Defender Antivirus.
