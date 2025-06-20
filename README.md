@@ -33,4 +33,4 @@ Links to free online security tools for quickly triaging and responding to cyber
 -   [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - A curated database that provides detailed information and reference samples for malware families, aiding in malware identification and analysis.
 -   [WDSL](https://www.microsoft.com/en-us/wdsi) - Microsoft Security Intelligence (WDSL) is a portal offering malware analysis, threat intelligence, and security updates for Microsoft Defender Antivirus.
 -   [Netcraft](https://www.netcraft.com/tools/) - Netcraft’s Internet research tools provide website analysis, security checks, and threat intelligence to help users assess and protect against online risks.
-
+- [No More Ransomware](https://www.nomoreransom.org/en/decryption-tools.html) - The No More Ransom decryption tools page offers free tools to unlock files encrypted by specific ransomware families, each tool targeting a different infection.
