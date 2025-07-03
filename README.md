@@ -1,4 +1,6 @@
 # Fast Online Response Tools (FORT)
+
+![Anime Cybersecurity Logo Jul 3 2025](https://github.com/user-attachments/assets/e7cd78e2-8c56-488c-bcaa-93b84873899d)
 Links to free online security tools for quickly triaging and responding to cyber incidents.
 
 ## Links
